@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DSM2022/Desktop/Android/BottomNav/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/DSM2022/Desktop/Android/BottomNav/app/src/main/res/drawable/menu_item_color.xml" value="0.1" />
+        <entry key="..\:/Users/DSM2022/Desktop/Android/BottomNav/app/src/main/res/layout/activity_main.xml" value="0.136" />
+        <entry key="..\:/Users/DSM2022/Desktop/Android/BottomNav/app/src/main/res/layout/bottomnavigationview.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/DSM2022/Desktop/Android/BottomNav/app/src/main/res/layout/fragment_bottomnav.xml" value="0.1" />
+        <entry key="..\:/Users/DSM2022/Desktop/Android/BottomNav/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/DSM2022/Desktop/Android/BottomNav/app/src/main/res/layout/fragment_mypage.xml" value="0.1" />
+        <entry key="..\:/Users/DSM2022/Desktop/Android/BottomNav/app/src/main/res/layout/fragment_setting.xml" value="0.1" />
+        <entry key="..\:/Users/DSM2022/Desktop/Android/BottomNav/app/src/main/res/menu/bottom_menu.xml" value="0.1" />
+        <entry key="..\:/Users/DSM2022/Desktop/BottomNav/app/src/main/res/drawable/ic_home.xml" value="0.1" />
+        <entry key="..\:/Users/DSM2022/Desktop/BottomNav/app/src/main/res/drawable/ic_settings.xml" value="0.1" />
+        <entry key="..\:/Users/DSM2022/Desktop/BottomNav/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/DSM2022/Desktop/BottomNav/app/src/main/res/layout/bottomnav.xml" value="0.1" />
+        <entry key="..\:/Users/DSM2022/Desktop/BottomNav/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/DSM2022/Desktop/BottomNav/app/src/main/res/layout/fragment_mypage.xml" value="0.1" />
+        <entry key="..\:/Users/DSM2022/Desktop/BottomNav/app/src/main/res/layout/fragment_setting.xml" value="0.1" />
+        <entry key="..\:/Users/DSM2022/Desktop/BottomNav/app/src/main/res/menu/bottom_menu.xml" value="0.184375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
